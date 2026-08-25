@@ -77,3 +77,49 @@ footer {
     text-align: center;
     color: #6b7280;
 }
+
+.about-intro {
+    margin-top: 32px;
+}
+
+.blog-title {
+    margin-bottom: 32px;
+}
+
+.post {
+    max-width: 700px;
+}
+
+.post h2 {
+    margin: 16px 0 32px;
+}
+
+.post h3 {
+    margin: 32px 0 16px;
+}
+
+.post p {
+    margin-bottom: 20px;
+}
+
+.post li {
+    margin-bottom: 10px;
+}
+
+.post a {
+    color: #2563eb;
+    text-decoration: none;
+}
+
+.post a:hover {
+    text-decoration: underline;
+}
+
+.post-card h3 a {
+    color: #1f2937;
+    text-decoration: none;
+}
+
+.post-card h3 a:hover {
+    color: #2563eb;
+}
